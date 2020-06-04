@@ -1,0 +1,20 @@
+h1 {
+    color: rgb(221, 32, 32);
+   border: purple solid 5px;
+}
+li {
+    color: green;
+}
+h4 {
+    background-color: salmon;
+}
+
+body {
+    background: url(https://funhouseguesthouse.com/wp-content/uploads/2017/06/funhouse-tattoo-woodgrain.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#special-css {
+    color: yellow;
+}
